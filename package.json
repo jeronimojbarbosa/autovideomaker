@@ -1,0 +1,22 @@
+{
+  "name": "autovideomaker",
+  "version": "1.0.0",
+  "description": "Robo de videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeronimojbarbosa/autovideomaker.git"
+  },
+  "keywords": [
+    "autovideomaker"
+  ],
+  "author": "Jerônimo Jorge Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeronimojbarbosa/autovideomaker/issues"
+  },
+  "homepage": "https://github.com/jeronimojbarbosa/autovideomaker#readme"
+}
